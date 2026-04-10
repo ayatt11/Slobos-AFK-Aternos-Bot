@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "ayat_r.aternos.me",
-    "port": 56293,
+    "port":56293,
     "version": "",
     "try-creative": false
   },
